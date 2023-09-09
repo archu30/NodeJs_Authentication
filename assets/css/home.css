@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(image/hero-1.jpg);
+}
+
+.home-div {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    margin-top: 80px;
+    width: 80vw;
+    height: 50vh;
+    color: lightseagreen;
+    margin: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
