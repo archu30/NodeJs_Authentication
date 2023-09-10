@@ -1,7 +1,7 @@
 # NodeJs_Authentication
 A complete authentication app with login, logout, register, forget password  . Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more.
 
-# Hosting Link: https://nodejs-authentication-archu.onrender.com/
+# Hosting Link: https://nodejs-authentication-archu30.onrender.com/
 
 ## Tech Stack
 Node , Express, Mongodb , EJS , javaScript , html, css
